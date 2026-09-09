@@ -2,6 +2,8 @@
 
 > Isaac Sim, MuJoCo 및 유사 로봇 시뮬레이션 도구 비교 분석
 
+https://github.com/google-deepmind/mujoco
+
 ---
 
 ## 1. 시뮬레이션 플랫폼 개요
